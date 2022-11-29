@@ -14,7 +14,7 @@
 - [김성진](https://github.com/seongjin77)
 - [김도영]
 - [김민승]
-- [윤슬기]
+- [윤슬기](https://github.com/icstuckyi)
 - [원석규]
 - [양지성]
   <br />
