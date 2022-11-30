@@ -7,19 +7,19 @@
 - 서로의 코드를 공유하고 풀이에 대한 사고를 넓히기
   <br />
 
-### 참여 인원 
+### 참여 인원
 
 ---
 
 - [김성진](https://github.com/seongjin77)
 - [김도영]
 - [김민승]
-- [윤슬기]
+- [윤슬기](https://github.com/icstuckyi)
 - [원석규]
 - [양지성]
   <br />
 
-### Commit Convention 
+### Commit Convention
 
 ---
 
@@ -45,7 +45,6 @@
 
   <br />
 
-
 ---
 
 1. `git pull origin main` branch와 싱크 맞추기.
@@ -65,4 +64,5 @@
 
 - 추가 문제사항이 생기면 '김성진'에게 연락바랍니다.
 - merge 하기전에 main 브랜치와 싱크가 맞아야합니다!! 주의!!
+
 ---
